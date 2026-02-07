@@ -77,9 +77,6 @@ An on-screen visualization that makes the invisible gaze threshold visible:
 4. **Look directly** at the object (bring it **inside** the circle) — the pulsing stops
 5. The effect is intentionally subtle; look for slight brightness changes at the edges of your vision
 
-> **Tip**: The cue target objects use dark colors (dark red, blue, green) against a gray environment so the brightness boost is more visible. If you have difficulty seeing the effect, try dimming your room lighting or adjusting your monitor brightness.
-
-
 ### Re-integrating VR Eye Tracking
 
 To use real eye-tracking hardware instead of simulated gaze:
@@ -112,8 +109,8 @@ To use real eye-tracking hardware instead of simulated gaze:
 
 ## Citation
 
-_[Citation placeholder — to be updated with paper reference]_
+Ali, Monthir, Po-Jui Huang, and Rogelio E. Cardona-Rivera. "World-Space Cueing: A Geometrically-Compact Modulation Technique for Subtle Gaze Direction in Head-Mounted Virtual Reality Displays." In 2025 IEEE International Conference on Artificial Intelligence and eXtended and Virtual Reality (AIxVR), pp. 10-18. IEEE, 2025.
 
 ## License
 
-_[License placeholder — to be updated]_
+MIT License
